@@ -17,7 +17,7 @@ The core of this project lies in the `create_model()` function, which defines th
 - 🔲 Two Fully Connected Layers with ReLU and Softmax activations, respectively, for combining the extracted features and generating the final classification output.
 
 ![Alt Text](https://paravisionlab.co.in/wp-content/uploads/2024/01/CNNTensorFlow_FeatureMap-1-1024x574.jpg)
-![Alt Text]()
+![Alt Text](https://github.com/suvro5495/Handwritten-Digit-Recognition/blob/main/Screenshot%202024-04-19%20at%2021.25.23.png)
 ![Alt Text]()
 ![Alt Text]()
 
