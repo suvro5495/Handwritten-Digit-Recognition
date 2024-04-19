@@ -15,6 +15,7 @@ The core of this project lies in the `create_model()` function, which defines th
 - ⬇️ Max Pooling Layers, used for downsampling the feature maps and reducing computational complexity.
 - 🔳 Flattening Layer, which converts the multi-dimensional feature maps into a flat vector.
 - 🔲 Two Fully Connected Layers with ReLU and Softmax activations, respectively, for combining the extracted features and generating the final classification output.
+![Alt Text](https://paravisionlab.co.in/wp-content/uploads/2024/01/CNNTensorFlow_FeatureMap-1-1024x574.jpg)
 
 ## 🔑 Key Functions
 
